@@ -4,9 +4,4 @@
    3  ll
    4  export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
    5  echo $JAVA_HOME
-   6  history > configurarJAVA_HOME.txt
-   7  history > configurarJAVAHOME.txt
-   8  history > configurarJAVA.txt
-   9  ls
-   10  cd ~/Downloads
-   11  history > configurarJAVA_HOME.txt
+  
