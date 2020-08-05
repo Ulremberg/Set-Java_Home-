@@ -4,8 +4,12 @@
    3  ll
    4  export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
    5  echo $JAVA_HOME
+<<<<<<< HEAD
    6  source /etc/profile
 
    1 sudo nano /etc/environment
    2 source /etc/environment		
    
+=======
+  
+>>>>>>> ce532017bc39fc1a37d18b4ddb79e262ba218ce7
